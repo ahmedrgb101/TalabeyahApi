@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>TalabeyahTaskApi.Domain</RootNamespace>
+        <AssemblyName>TalabeyahTaskApi.Domain</AssemblyName>
+    </PropertyGroup>
+    <ItemGroup>
+      <Compile Remove="Catalog\**" />
+      <EmbeddedResource Remove="Catalog\**" />
+      <None Remove="Catalog\**" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="NewId" Version="4.0.0-develop.44" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Shared\Shared.csproj" />
+    </ItemGroup>
+</Project>

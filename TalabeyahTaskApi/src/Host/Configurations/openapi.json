@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Milano API",
+    "Version": "v1",
+    "Description": "Milano API.",
+    "ContactName": "Milano",
+    "ContactEmail": "hello@Milano.com",
+    "ContactUrl": "https://linkedin.com/in/Milano",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://github.com/Milano/blob/main/LICENSE"
+  }
+}

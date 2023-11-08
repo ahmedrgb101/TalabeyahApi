@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=.;Initial Catalog=Talabeyah;Persist security info = true;User Id=dev;Password=P@ssw0rd001;MultipleActiveResultSets=True;Trusted_Connection=false"
+  }
+}

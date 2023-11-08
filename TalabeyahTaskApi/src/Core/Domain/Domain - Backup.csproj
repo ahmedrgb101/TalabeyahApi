@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>OEApi.Domain</RootNamespace>
+        <AssemblyName>OEApi.Domain</AssemblyName>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="NewId" Version="4.0.0-develop.44" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Shared\Shared.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Catalog\" />
+    </ItemGroup>
+</Project>

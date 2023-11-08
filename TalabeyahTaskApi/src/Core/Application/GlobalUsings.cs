@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using TalabeyahTaskApi.Application.Common.Events;
+global using TalabeyahTaskApi.Application.Common.Exceptions;
+global using TalabeyahTaskApi.Application.Common.FileStorage;
+global using TalabeyahTaskApi.Application.Common.Interfaces;
+global using TalabeyahTaskApi.Application.Common.Models;
+global using TalabeyahTaskApi.Application.Common.Persistence;
+global using TalabeyahTaskApi.Application.Common.Specification;
+global using TalabeyahTaskApi.Application.Common.Validation;
+global using TalabeyahTaskApi.Domain.Catalog;
+global using TalabeyahTaskApi.Domain.Common;
+global using TalabeyahTaskApi.Domain.Common.Contracts;
+global using TalabeyahTaskApi.Shared.Notifications;

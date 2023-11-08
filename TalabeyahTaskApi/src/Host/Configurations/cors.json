@@ -1,0 +1,7 @@
+{
+  "CorsSettings": {
+    "Angular": "http://localhost:4200",
+    "Blazor": "http://localhost:5008;https://localhost:5008;http://10.0.0.208:5008;http://localhost:5000;https://www.mydomain.my;http://milanoex-app.milano-eg.com:5008",
+    "React": "http://localhost:3000"
+  }
+}

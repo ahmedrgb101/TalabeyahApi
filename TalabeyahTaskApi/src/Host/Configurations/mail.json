@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "DisplayName": "Milano",
+    "From": "app@milano-eg.com",
+    "Host": "smtp.milano-eg.email",
+    "Password": "@pp@123456",
+    "Port": 587,
+    "UserName": "app@milano-eg.com"
+  }
+}
